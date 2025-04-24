@@ -1,4 +1,4 @@
-# OS-Constructs
+# OS-Sim
 
 This repository contains core underlying OS-level algorithms and constructs.
 
