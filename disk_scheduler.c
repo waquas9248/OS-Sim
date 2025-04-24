@@ -1,5 +1,6 @@
 #include<stdio.h> 
-#include<math.h> 
+#include<math.h>
+
 int main() {
 int queue[20],n,head,i,j,k,seek=0,max,diff; 
 float avg; printf ("Enter the size of queue request\n");
