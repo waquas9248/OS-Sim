@@ -1,1 +1,3 @@
-# Operating-Systems-2020
+# Operating-Systems-Algorithms
+
+## Core underlying algorithms and constructs in OS
