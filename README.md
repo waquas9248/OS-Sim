@@ -1,3 +1,3 @@
 # Operating-Systems-Algorithms
 
-## Core underlying algorithms and constructs in OS
+Core underlying OS-level algorithms and constructs
